@@ -1,0 +1,2 @@
+import hajii
+hajii.menu()
